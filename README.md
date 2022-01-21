@@ -54,11 +54,12 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff&style=flat-square)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-339933?style=flat-square&logo=Notepad++&logoColor=ffffff&style=flat-square)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff&style=flat-square)
+![Windows Terminal](http://img.shields.io/badge/-Windows%20Terminal-000000?style=flat-square&logo=windowsTerminal&logoColor=ffffff&style=flat-square)
+![VMware](https://img.shields.io/badge/-VMware-FCA121?style=flat-square&logo=VMware&style=flat-square)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff&style=flat-square)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=Linux&logoColor=ffffff&style=flat-square)
-![VMware](https://img.shields.io/badge/-VMware-FCA121?style=flat-square&logo=VMware&style=flat-square)
 
-## Github Statistics 📈
+## GitHub Statistics 📈
   <div> 
     <a href="https://github.com/UygarKAYA">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UygarKAYA&langs_count=10&layout=compact&theme=react"/>
