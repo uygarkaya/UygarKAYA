@@ -31,6 +31,8 @@
 ![Xilinx ISE](https://img.shields.io/badge/-Xilinx%20ISE-FFCA28?style=flat-square&logo=Xilinx&logoColor=ffffff&style=flat-square)
 ![Matlab](https://img.shields.io/badge/-MATLAB-FCA121?style=flat-square&logo=MATLAB&style=flat-square)
 ![Proteus](https://img.shields.io/badge/-Proteus%E2%80%938-61DAFB?style=flat-square&logo=Proteus&logoColor=ffffff&style=flat-square)
+![microC PRO for PIC](https://img.shields.io/badge/-microC%20PRO%20for%20PIC-CC2927?style=flat-square&logo=microC-pro-for-pıc&logoColor=ffffff&style=flat-square)
+![MPLAB](http://img.shields.io/badge/-MPLAB-A8B9CC?style=flat-square&logo=MPLAB&logoColor=ffffff&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff&style=flat-square)
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&style=flat-square)
@@ -74,7 +76,7 @@
     -->
 </div
 
-[linkedin]: https://www.linkedin.com/in/uygar-kaya-248a93187/
+[linkedin]: https://www.linkedin.com/in/uygarkaya/
 
 <!--
 **UygarKAYA/UygarKAYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
