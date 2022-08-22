@@ -1,6 +1,6 @@
 ## Hi there, I'm Uygar 👋
 
-👨‍💻 Senior Bachelor's Degree student in Computer Science with a Minor in Electrical & Electronic Engineering at Ozyegin University<br/>
+👨‍💻 Bachelor's Degree in Computer Science with a Minor in Electrical & Electronic Engineering at Ozyegin University<br/>
 💪🏼 Future Goals: Learn More Technologies - Never Stop Implementing New Ideas
 
 ## Contact With Me 📫
