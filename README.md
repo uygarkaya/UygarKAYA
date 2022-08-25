@@ -62,14 +62,16 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=Linux&logoColor=ffffff&style=flat-square)
 
 ## GitHub Statistics 📈
-  <div> 
+  <div>
+    <!--
     <a href="https://github.com/UygarKAYA">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UygarKAYA&langs_count=10&layout=compact&theme=react"/>
     </a>
-    <!--
+    -->
     <a href="https://github.com/UygarKAYA">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UygarKAYA&show_icons=true&count_private=true&theme=react&line_height=40" />
     </a>
+    <!--
     <a href="https://github.com/UygarKAYA">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UygarKAYA&theme=react"/>
     </a>
