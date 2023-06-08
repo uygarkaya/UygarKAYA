@@ -82,7 +82,7 @@
   </div -->
 
 [linkedin]: https://www.linkedin.com/in/uygarkaya/
-[mail]: uygar.kaya@ozu.edu.tr
+[mail]: mailto:uygar.kaya@ozu.edu.tr
 [googleScholar]: https://scholar.google.com/citations?user=e8oF3YAAAAAJ&hl=en
 [academia]: https://ozyegin.academia.edu/UygarKaya
 
