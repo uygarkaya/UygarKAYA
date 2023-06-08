@@ -5,7 +5,10 @@
 
 ## Contact With Me 📫
 
-[<img align="left" alt="Uygar Kaya | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
+[<img alt="Uygar Kaya | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
+[<img alt="Uygar Kaya | GoogleMail" height="30px" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png"/>][mail]
+[<img alt="Uygar Kaya | GoogleScholar" height="30px" src="https://img.icons8.com/?size=512&id=drPiDBy9kkJ3&format=png"/>][googleScholar]
+[<img alt="Uygar Kaya | AcademiaEdu" height="30px" src="https://img.icons8.com/?size=512&id=wtLhjRpd1QxA&format=png"/>][academia]
 <br/>
 
 ## Programming Languages & Tools That I Learned and Use 🛠 
@@ -79,6 +82,9 @@
   </div -->
 
 [linkedin]: https://www.linkedin.com/in/uygarkaya/
+[mail]: uygar.kaya@ozu.edu.tr
+[googleScholar]: https://scholar.google.com/citations?user=e8oF3YAAAAAJ&hl=en
+[academia]: https://ozyegin.academia.edu/UygarKaya
 
 <!--
 **UygarKAYA/UygarKAYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
