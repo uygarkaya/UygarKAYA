@@ -9,6 +9,7 @@
 [<img alt="Uygar Kaya | GoogleMail" height="30px" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png"/>][mail]
 [<img alt="Uygar Kaya | GoogleScholar" height="30px" src="https://img.icons8.com/?size=512&id=drPiDBy9kkJ3&format=png"/>][googleScholar]
 [<img alt="Uygar Kaya | AcademiaEdu" height="30px" src="https://img.icons8.com/?size=512&id=wtLhjRpd1QxA&format=png"/>][academia]
+[<img alt="Uygar Kaya | DBLP" height="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-dblp-an-online-reference-for-open-bibliographic-information-on-computer-science-journals-logo-color-tal-revivo.png"/>][dblp]
 <br/>
 
 ## Programming Languages & Tools That I Learned and Use 🛠 
@@ -87,6 +88,7 @@
 [mail]: mailto:uygar.kaya@ozu.edu.tr
 [googleScholar]: https://scholar.google.com/citations?user=e8oF3YAAAAAJ&hl=en
 [academia]: https://ozyegin.academia.edu/UygarKaya
+[dblp]: https://dblp.org/pid/331/6355.html
 
 <!--
 **UygarKAYA/UygarKAYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
